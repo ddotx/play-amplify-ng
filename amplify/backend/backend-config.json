@@ -11,6 +11,12 @@
     "dynamo1257a504": {
       "service": "DynamoDB",
       "providerPlugin": "awscloudformation"
+    },
+    "ampcoguserdev": {
+      "service": "DynamoDB",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
     }
   },
   "function": {
