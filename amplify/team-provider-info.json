@@ -47,18 +47,6 @@
       },
       "function": {
         "playamplifyng427d6c4d": {}
-      },
-      "storage": {
-        "ampcoguserdev": {
-          "tableName": "ampcog-user-dev",
-          "region": "ap-southeast-1",
-          "arn": "arn:aws:dynamodb:ap-southeast-1:524296608096:table/ampcog-user-dev",
-          "streamArn": "arn:aws:dynamodb:ap-southeast-1:524296608096:table/ampcog-user-dev/stream/2020-12-03T15:11:55.490",
-          "partitionKeyName": "PK",
-          "partitionKeyType": "S",
-          "sortKeyName": "SK",
-          "sortKeyType": "S"
-        }
       }
     }
   }
